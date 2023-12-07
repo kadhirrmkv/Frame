@@ -5,6 +5,7 @@
     <classes>
       <class name="aaa.B"/>
       <class name="aaa.C"/>
+      <class name="aaa.Amaz"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
